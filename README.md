@@ -1,4 +1,5 @@
-# DATA-SCIENCE-PROJECTSPredict Future Sales
+# DATA-SCIENCE-PROJECTS
+
 1.)Predict Future Sales of  Company
 This Project contains a solution to the "Predict Future Sales" competition on Kaggle. This competition aims to predict the monthly sales of various products across different stores.
 
